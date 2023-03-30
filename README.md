@@ -2,7 +2,7 @@
 
 - 🔭 Universitário
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
-- 😄 pronomes: ele/dele
+- 📚 Buscando conhecimento na área de Front-End
 
 <div>
   <a href="https://github.com/wandersonwendel">
