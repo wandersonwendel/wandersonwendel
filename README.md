@@ -1,9 +1,4 @@
 Olá! Eu sou o Wanderson Wendel 😉
-
-- 🔭 Universitário
-- 🌱 Graduando em Análise e Desenvolvimento de Sistemas
-- 🤔 Procurando aprender, compartilhar conhecimento, etc
-
 <div>
   <a href="https://github.com/wandersonwendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonwendel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
