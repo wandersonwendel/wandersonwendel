@@ -1,8 +1,13 @@
 ## Olá! Eu sou o Wanderson Wendel 😉
+
+- 🔭 Universitário
+- 🌱 Graduando em Análise e Desenvolvimento de Sistemas
+- 😄 pronomes: ele/dele
+
 <div>
   <a href="https://github.com/wandersonwendel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonwendel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonwendel&layout=compact&langs_count=16&theme=react"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=wandersonwendel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="195px" width="560px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonwendel&layout=compact&langs_count=16&theme=react"/>
 </div>
           
 <div style="display: inline_block"><br>
