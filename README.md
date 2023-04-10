@@ -1,4 +1,4 @@
-## <h1 align="center">Olá! Eu sou o Wanderson 😉</h1>
+<h1 align="center">Olá! Eu sou o Wanderson 😉</h1>
 
 - 🔭 Universitário
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
