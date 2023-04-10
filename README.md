@@ -1,13 +1,19 @@
-<h1 align="center">Olá! Eu sou o Wanderson 😉</h1>
+<h1 align="center"> Olá! Eu sou o Wanderson😉</h1>
 
-- 🔭 Universitário
-- 🌱 Graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Buscando conhecimento na área de Front-End
+- 👨‍💻 Grduando em Análise e Desenvolvimento de Sistemas;
+- 📚 Estudando para ser Desenvolvedor Front-End;
+- 🎯 Geek - Tecnologia - Música - Estudo.
 
-<div>
-  <a href="https://github.com/wandersonwendel">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=wandersonwendel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonwendel&layout=compact&langs_count=16&theme=react"/>
+<br>
+<h1>Um pouco do meu GitHub:</h1>
+
+📊 Projetos e/ou atividades acadêmicas;  
+📈 Projetos durante meus estudos com HTML, CSS e JavaScript.
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandersonwendel&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wanderson Wendel github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonwendel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
           
 <div style="display: inline_block"><br>
