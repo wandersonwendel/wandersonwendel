@@ -5,10 +5,11 @@
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
 <br>
-Aqui, você vai encontrar:
+
+### Aqui, você vai encontrar:
 
 📊 Projetos e/ou atividades acadêmicas;  
-📈 Projetos durante meus estudos com HTML, CSS e JavaScript.
+📈 Projetos durante meus estudos e práticas com Front-End.
 
 
 <div align="center">  
