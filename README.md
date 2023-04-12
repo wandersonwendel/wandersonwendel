@@ -5,7 +5,7 @@
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
 <br>
-<h1>Um pouco do meu GitHub:</h1>
+Aqui, você vai encontrar:
 
 📊 Projetos e/ou atividades acadêmicas;  
 📈 Projetos durante meus estudos com HTML, CSS e JavaScript.
