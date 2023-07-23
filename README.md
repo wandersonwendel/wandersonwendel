@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou o Wanderson😉</h1>
 
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas;
-- 📚 Estudando para ser Desenvolvedor Front-End;
+- 📚 Estudando para ser Desenvolvedor Web;
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
 <br>
