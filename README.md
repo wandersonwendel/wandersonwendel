@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou o Wanderson😉</h1>
 
-- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas'(UFC).
 - 📚 Estudando para ser Desenvolvedor Web.
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
