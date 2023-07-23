@@ -4,8 +4,6 @@
 - 📚 Estudando para ser Desenvolvedor Web;
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
-<br>
-
 ### Aqui, você vai encontrar:
 
 📊 Projetos e/ou atividades acadêmicas;  
