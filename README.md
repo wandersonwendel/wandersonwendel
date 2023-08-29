@@ -6,7 +6,7 @@
 
 ### Aqui, você vai encontrar:
 
-📊 Projetos e/ou atividades acadêmicas;  
+📊 Projetos e atividades acadêmicas;  
 📈 Projetos durante meus estudos e práticas com Front-End.
 
 
