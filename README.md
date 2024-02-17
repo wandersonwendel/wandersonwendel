@@ -31,5 +31,3 @@
 </div>
 
 ![snake gif](https://github.com/wandersonwendel/wandersonwendel/blob/output/github-contribution-grid-snake.gif)
-
-[![readdme](https://github-readme-stats.vercel.app/api/pin/?username=wandersonwendel&repo=wandersonwendel&theme=react)](https://github.com/wandersonwendel/wandersonwendel)
