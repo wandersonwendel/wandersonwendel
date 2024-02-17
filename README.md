@@ -30,6 +30,6 @@
   <a href="https://www.linkedin.com/in/wanderson-wendel-ufc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/wandersonwendel/wandersonwendel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wandersonwendel/wandersonwendel/blob/output/github-contribution-grid-snake.gif)
 
 [![readdme](https://github-readme-stats.vercel.app/api/pin/?username=wandersonwendel&repo=wandersonwendel&theme=react)](https://github.com/wandersonwendel/wandersonwendel)
