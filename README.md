@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+o+Wanderson+😉+!;" />
-</h1>
-
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC).
 - 📚 Estudando para ser Desenvolvedor Web.
 - 🎯 Geek - Tecnologia - Música - Estudo.
@@ -33,7 +29,3 @@
 </div>
 
 ![snake gif](https://github.com/wandersonwendel/wandersonwendel/blob/output/github-contribution-grid-snake.svg)
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado,+pela+atenção+😉+!;" />
-</h1>
