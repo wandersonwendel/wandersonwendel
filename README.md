@@ -4,7 +4,7 @@
   👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC) - 🎯 Geek - Tecnologia - Música - Estudo.
 </div>
 
-### Aqui, você vai encontrar:
+## Aqui, você vai encontrar:
 
 📊 Projetos e atividades acadêmicas;  
 📈 Projetos durante meus estudos e práticas com Front-End.
