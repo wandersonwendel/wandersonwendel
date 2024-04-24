@@ -1,8 +1,8 @@
 <img width=100% src="./.github/assets/banner.png"/>
 
-- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC).
-- 📚 Estudando para ser Desenvolvedor Web.
-- 🎯 Geek - Tecnologia - Música - Estudo.
+<div align="center" style="display: inline;">
+  👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC) - 🎯 Geek - Tecnologia - Música - Estudo.
+</div>
 
 ### Aqui, você vai encontrar:
 
@@ -16,18 +16,13 @@
 <img width="41%" height="195%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonwendel&hide_progress=true&hide_progress=true&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
+## My Stack
 
-##
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github&theme=dark" />
 
-<div>
-  <a href="mailto:wandersonsousa489@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wanderson-wendel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Conta me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-wendel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersonwendel.dev@gmail.com)
 
 ![snake gif](https://github.com/wandersonwendel/wandersonwendel/blob/output/github-contribution-grid-snake.svg)
