@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github&theme=dark" />
 
-## Conta me
+## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-wendel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersonwendel.dev@gmail.com)
