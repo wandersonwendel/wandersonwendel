@@ -1,3 +1,5 @@
+<img width=100% src="./.github/assets/banner.png"/>
+
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC).
 - 📚 Estudando para ser Desenvolvedor Web.
 - 🎯 Geek - Tecnologia - Música - Estudo.
