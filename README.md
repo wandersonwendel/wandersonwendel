@@ -1,13 +1,13 @@
 <img width=100% src="./.github/assets/banner.png"/>
 
 <div align="center" style="display: inline;">
-  👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC) - 🎯 Geek - Tecnologia - Música - Estudo.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> Graduando em Análise e Desenvolvimento de Sistemas(UFC) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" />
 </div>
 
-## Aqui, você vai encontrar:
+## Aqui, você vai encontrar: 
 
-📊 Projetos e atividades acadêmicas;  
-📈 Projetos durante meus estudos e práticas com Front-End.
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Projetos/Atividades acadêmicas. <br />
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Projetos durante meus estudos e práticas com Front-End.
 
 
 <div align="center">  
@@ -20,9 +20,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,django,vscode,git,github&theme=dark" />
 
-## Sobre mim
+## Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Fairy%20Light%20Skin%20Tone.png" alt="Man Fairy Light Skin Tone" width="40" height="40" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Wanderson Wendel e sou um Desenvolvedor Front-end. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Man Raising Hand Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Wanderson Wendel e sou um Desenvolvedor Front-end. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego/estágio e com o tempo, adiquirindo conhecimento, me tornar um ótimo desenvolvedor.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Conhecimento em TypeScript, React, React Native e Kotlin.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Procuro sempre ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas.<br />
