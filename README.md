@@ -18,7 +18,7 @@
 
 ## Minha Stack Principal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,git&theme=dark" />
 
 ## Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Fairy%20Light%20Skin%20Tone.png" alt="Man Fairy Light Skin Tone" width="40" height="40" />
 
