@@ -18,13 +18,13 @@
 
 ## Minha Stack Principal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github&theme=dark" />
 
 ## Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Fairy%20Light%20Skin%20Tone.png" alt="Man Fairy Light Skin Tone" width="40" height="40" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Man Raising Hand Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Wanderson Wendel e sou um Desenvolvedor Front-end. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego/estágio e com o tempo, adiquirindo conhecimento, me tornar um ótimo desenvolvedor.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Conhecimento acadêmico em JavaScript, TypeScript, React, Next.js e Kotlin.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Conhecimento acadêmico em Python, Django, JavaScript, TypeScript, React, Next.js e Kotlin.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Procuro sempre ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Além deste mundo da tecnologia, curto muito o mundo geek, como Marvel. Você também? Mande uma mensagem, vamos conversar! <br />
 
